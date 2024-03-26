@@ -14,5 +14,5 @@ Jogo chamado Biscoito da Sorte, no qual o usuário, a partir de um clique ou ent
 - JavaScript;
 - Git e GitHub.
 
-## 💜 Contato
+## 📞 Contato
 fab_luiz@msn.com
